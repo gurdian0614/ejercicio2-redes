@@ -31,4 +31,5 @@ if [ "$opcion" = 1 ]; then
     #     mkdir $rutaCarpeta
     #     echo "Carpeta creada correctamente, la ruta es:" $rutaCarpeta
     # fi
+    #
 fi
